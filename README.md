@@ -1,6 +1,8 @@
 # FlappyBird Canvas I.A
 Estudo para reproduzir (o mais próximo possível) o game FlappyBird e desenvolver uma Rede Neural para jogá-lo.
 
+![Image description](https://github.com/mantoanelli/flappybird_canvas_ia/blob/master/screenshots/game.png)
+
 # O que você vai ver
 > Programação JavaScript Modular
 
